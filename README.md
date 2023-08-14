@@ -14,12 +14,6 @@ Start dev server:
 $ docker compose up
 ```
 
-Stop dev server:
-
-```
-$ docker compose down
-```
-
 Open console(open another terminal):
 
 ```
